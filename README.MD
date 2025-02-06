@@ -27,7 +27,6 @@ Add the following link inside your `<head>` tag:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cssk-framework/cssk.min.css">
-npm i cssk-framework
 ``` 
 
 ### **2️⃣ Manual Installation**  
@@ -37,7 +36,7 @@ npm i cssk-framework
    ```
 2. Include the `cssk.css` file in your project:  
    ```html
-   <link rel="stylesheet" href="cssk.css">
+   <link rel="stylesheet" href="cssk.min.css">
    ```
 
 
